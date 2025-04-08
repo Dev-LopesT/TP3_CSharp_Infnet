@@ -1,0 +1,14 @@
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\bin\Debug\net9.0\Tp3-CSharp-Infnet.exe
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\bin\Debug\net9.0\Tp3-CSharp-Infnet.deps.json
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\bin\Debug\net9.0\Tp3-CSharp-Infnet.runtimeconfig.json
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\bin\Debug\net9.0\Tp3-CSharp-Infnet.dll
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\bin\Debug\net9.0\Tp3-CSharp-Infnet.pdb
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.dll
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\refint\Tp3-CSharp-Infnet.dll
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.pdb
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\Tp3-CSharp-Infnet.genruntimeconfig.cache
+C:\Users\thiag\source\repos\Tp3-CSharp-Infnet\Tp3-CSharp-Infnet\obj\Debug\net9.0\ref\Tp3-CSharp-Infnet.dll

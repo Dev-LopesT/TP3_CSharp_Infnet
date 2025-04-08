@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tp3-CSharp-Infnet/1.0.0": {
+        "runtime": {
+          "Tp3-CSharp-Infnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tp3-CSharp-Infnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
